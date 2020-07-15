@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Android & iOS Applications.
 - 🌱 I’m learning Kotlin & Android Pattern Design.
 - 💻 I have 7 Android Apps on Play Store : [Android Apps](https://play.google.com/store/apps/developer?id=Halil+İbrahim+Özel)
-- 📱 I have 3 iOS App on App Store : [iOS Apps](https://apps.apple.com/us/developer/halil-ibrahim-ozel/id1470824248)
+- 📱 I have 4 iOS App on App Store : [iOS Apps](https://apps.apple.com/us/developer/halil-ibrahim-ozel/id1470824248)
 - 📫 You can reach me: https://medium.com/@halilozel1903
 
 <!--
