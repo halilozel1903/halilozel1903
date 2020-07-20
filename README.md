@@ -8,6 +8,11 @@
 - 📱 I have 4 iOS App on App Store : [iOS Apps](https://apps.apple.com/us/developer/halil-ibrahim-ozel/id1470824248)
 - 📫 You can reach me: https://medium.com/@halilozel1903
 
+<br>
+
+![Halil's GitHub stats](https://github-readme-stats.vercel.app/api?username=halilozel1903)
+
+
 <!--
 **halilozel1903/halilozel1903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
