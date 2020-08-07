@@ -23,6 +23,7 @@
 src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"  width="36" /> <img 
 src="https://www.vectorlogo.zone/logos/java/java-icon.svg"  width="36" />  <img 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/128px-Android_Studio_icon.svg.png"  width="36" /> <img 
+src="https://raw.githubusercontent.com/Hendriyawan/OfflineMP3/master/exoplayer.png"  width="36" /> <img 
 src="https://www.vectorlogo.zone/logos/google_admob/google_admob-icon.svg"  width="36" />  <img 
 src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg"  width="36" /> <img 
 src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" width="36" />  <img 
@@ -41,7 +42,9 @@ src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"  width="36" /> <img
 src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg"  width="36" /> <img 
 src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  width="36" />  <img 
 src="https://api.nuget.org/v3-flatcontainer/karamunting.androidx.bumptech.glide.disklrucache/4.10.0-preview01/icon"  width="36" /> <img 
-src="https://seeklogo.com/images/R/reactivex-logo-D0FB68B710-seeklogo.com.png"  width="36" />
+src="https://seeklogo.com/images/R/reactivex-logo-D0FB68B710-seeklogo.com.png"  width="36" /> <img 
+src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg"  width="36" /> 
+
 
 
 ## 📚 Learning
