@@ -18,40 +18,6 @@
 <code><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
 
 
-## 🧠 Know & Using
-<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="36" />  <img 
-src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"  width="36" /> <img 
-src="https://www.vectorlogo.zone/logos/java/java-icon.svg"  width="36" />  <img 
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/128px-Android_Studio_icon.svg.png"  width="36" /> <img 
-src="https://raw.githubusercontent.com/Hendriyawan/OfflineMP3/master/exoplayer.png"  width="36" /> <img 
-src="https://www.vectorlogo.zone/logos/google_admob/google_admob-icon.svg"  width="36" />  <img 
-src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg"  width="36" /> <img 
-src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" width="36" />  <img 
-src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg"  width="36" /> <img 
-src="https://github.com/gilbarbara/logos/blob/master/logos/cocoapods.svg"  width="36" /> <img 
-src="https://github.com/Carthage/Carthage/blob/master/Logo/SVG/avatar-colored.svg"  width="36" /> <img 
-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  width="36" />  <img 
-src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg"  width="36" />  <img 
-src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg"  width="36" />  <img 
-src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"  width="36" /> <img 
-src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"  width="36" />  <img 
-src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg"  width="36" />  <img 
-src="https://www.vectorlogo.zone/logos/payoneer/payoneer-icon.svg"  width="36" /> <img 
-src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg"  width="36" /> <img 
-src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"  width="36" /> <img 
-src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg"  width="36" /> <img 
-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  width="36" />  <img 
-src="https://api.nuget.org/v3-flatcontainer/karamunting.androidx.bumptech.glide.disklrucache/4.10.0-preview01/icon"  width="36" /> <img 
-src="https://seeklogo.com/images/R/reactivex-logo-D0FB68B710-seeklogo.com.png"  width="36" /> <img 
-src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg"  width="36" /> 
-
-
-
-## 📚 Learning
-<code><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-<code><img height="50" src="https://3.bp.blogspot.com/-e2YZvW-tLtU/WvQfZehnE_I/AAAAAAAARZw/_SyZiSQ7VNcC3EhBqBiEXOs6Rrt5NZnbACK4BGAYYCw/s1600/Screenshot%2Bat%2BMay%2B10%2B15-58-29.png"></code>
-<code><img height="50" src="https://i0.wp.com/blog.fossasia.org/wp-content/uploads/2017/06/30_rxjava.png?fit=840%2C400&ssl=1"></code>
-
 ## 📱 Android & iOS Apps
 <code><a href="https://play.google.com/store/apps/developer?id=Halil+İbrahim+Özel" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg"></a></code>
 <code><a href="https://apps.apple.com/developer/halil-ibrahim-ozel/id1470824248" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apple_appstore/apple_appstore-ar21.svg"></a></code>
