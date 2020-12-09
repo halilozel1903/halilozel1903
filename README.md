@@ -11,12 +11,6 @@
 </p>
 
 
-## 💻 I'm currently working on
-
-<code><img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-<code><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-
 
 ## 📱 Android & iOS Apps
 <code><a href="https://play.google.com/store/apps/developer?id=Halil+İbrahim+Özel" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg"></a></code>
