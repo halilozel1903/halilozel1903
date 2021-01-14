@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-✨ My name is **Halil OZEL**, I'm an Android Developer from Turkey 🇹🇷 <br>
+✨ My name is **Halil OZEL**, I'm an Mobile 📱 Application Developer 💻 from Turkey 🇹🇷 <br>
 
 
 ## 📌 GitHub Stats and Top Languages
@@ -12,9 +12,9 @@
 
 
 
-## 📱 Android & iOS Apps
-<code><a href="https://play.google.com/store/apps/developer?id=Halil+İbrahim+Özel" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg"></a></code>
-<code><a href="https://apps.apple.com/developer/halil-ibrahim-ozel/id1470824248" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apple_appstore/apple_appstore-ar21.svg"></a></code>
+## 📲 Android & iOS Apps
+<code><a href="https://play.google.com/store/apps/developer?id=Halil+İbrahim+Özel" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_play/google_play-tile.svg"></a></code>
+<code><a href="https://apps.apple.com/developer/halil-ibrahim-ozel/id1470824248" target="_blank"><img height="50" src="https://images.idgesg.net/images/article/2019/07/ios13-app-store-hero-100802526-large.jpg"></a></code>
 
 
 ## 📝 How to access my blog post
