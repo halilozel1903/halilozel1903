@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-✨ My name is **Halil OZEL**, I'm an Mobile 📱 Application Developer 💻 from Turkey 🇹🇷 <br>
+✨ My name is **Halil OZEL**, I'm an Android 📱 Developer 💻 from Turkey 🇹🇷 <br>
 
 
 ## 📌 GitHub Stats and Top Languages
