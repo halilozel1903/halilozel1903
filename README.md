@@ -6,8 +6,7 @@
 ## 📌 GitHub Stats and Top Languages
 
 <p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=halilozel1903&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=halilozel1903&layout=compact&theme=dark" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=halilozel1903&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" /> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=halilozel1903&layout=compact&theme=dark" />
 </p>
 
 
@@ -20,8 +19,6 @@
 ## 📝 How to access my blog post
 
 [![Medium Badge](https://img.shields.io/badge/HalilOZEL-Medium-blue?style=for-the-badge&logo=medium)](https://medium.com/@halilozel1903)
-
-[![Mobiler.Dev Badge](https://img.shields.io/badge/HalilOZEL-Mobiler.Dev-blue?style=for-the-badge&logo=mobiler.dev)](https://www.mobiler.dev/profile/halilozel1903/blog-posts)
 
 
 ## 📫 How to reach me
