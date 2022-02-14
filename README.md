@@ -27,5 +27,7 @@ You can find and get touch with me on these accounts 👀
 
 [![LinkedIn Badge](https://img.shields.io/badge/HalilOZEL-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/halilozel1903/)
 
+[![Stackoverflow Badge](https://img.shields.io/badge/HalilOZEL-follow%20on%20stackoverflow-blue?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/7799462/halil-ozel)
+
 [![Twitter Badge](https://img.shields.io/badge/HalilOZEL-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/halilozel1903)
 
