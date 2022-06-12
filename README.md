@@ -30,3 +30,7 @@ You can find and get touch with me on these accounts 🙈
 
 [![Twitter Badge](https://img.shields.io/badge/HalilOZEL-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/halilozel1903)
 
+## 🙃 Do you want to buy me Coffee ☕️
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/halilozel1903)
+
