@@ -24,9 +24,9 @@
 
 You can find and get touch with me on these accounts 🙈
 
-[![LinkedIn Badge](https://img.shields.io/badge/HalilOZEL-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/halilozel1903/)
+<a href="https://stackoverflow.com/users/7799462/halil-ozel"><img src="https://stackexchange.com/users/flair/10587710.png" width="208" height="58" alt="profile for Halil Ozel on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Halil Ozel on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
-[![Stackoverflow Badge](https://img.shields.io/badge/HalilOZEL-follow%20on%20stackoverflow-blue?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/7799462/halil-ozel)
+[![LinkedIn Badge](https://img.shields.io/badge/HalilOZEL-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/halilozel1903/)
 
 [![Twitter Badge](https://img.shields.io/badge/HalilOZEL-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/halilozel1903)
 
