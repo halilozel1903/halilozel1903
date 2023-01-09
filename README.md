@@ -1,16 +1,17 @@
-# Hey you! 👋
+# Hey Fellas! 👋
 
 ✨ My name is **Halil OZEL**, I'm an Android 📱 Developer 💻 from Turkey 🇹🇷 <br>
 
 
 ## 📌 GitHub 😻 Stats 📈 & Top 🏆 Languages 🌍
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=halilozel1903&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=halilozel1903&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" /> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=halilozel1903&layout=compact&theme=dark" />
 </p>
 
+## 🔥 GitHub 😺 Streak ⚠️ & Contributions 💪🏻
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=halilozel1903&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## 📲 Android & iOS  Apps 💻
 <code><a href="https://play.google.com/store/apps/developer?id=Halil+İbrahim+Özel" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_play/google_play-tile.svg"></a></code>
