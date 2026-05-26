@@ -1,4 +1,4 @@
-# Hi there, I'm Halil Özel 👋
+# Hi there, I'm Halil Ozel 👋
 
 Android Developer from Turkey 🇹🇷
 
