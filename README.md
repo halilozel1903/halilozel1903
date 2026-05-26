@@ -1,6 +1,6 @@
-# Hey Fellas! 👋
+# Hey Folks! 👋
 
-✨ My name is **Halil OZEL**, I'm an Android 📱 Developer 💻 from Turkey 🇹🇷 <br>
+✨ My name is **Halil Ozel**, I'm an Android 📱 Developer 💻 from Türkiye 🇹🇷 <br>
 
 
 ## 📌 GitHub 😻 Stats 📈 & Top 🏆 Languages 🌍
@@ -27,7 +27,7 @@ You can find and get touch with me on these accounts 🙈
 
 [![LinkedIn Badge](https://img.shields.io/badge/HalilOZEL-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/halilozel1903/)
 
-[![Twitter Badge](https://img.shields.io/badge/HalilOZEL-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/halilozel1903)
+[![X Badge](https://img.shields.io/badge/HalilOZEL-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/halilozel1903)
 
 ## 🙃 Would you like to support me? 🥳
 
