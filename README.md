@@ -8,13 +8,5 @@
 ## 📲 Android Apps 💻
 <code><a href="https://play.google.com/store/apps/developer?id=Halil+İbrahim+Özel" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_play/google_play-tile.svg"></a></code> Dive into my mobile portfolio! Explore the Android applications I've developed and published on the Google Play Store below. 🚀📱
 
-
-## 📫 How 👀 to reach me? 💁🏻‍♂️
-
-<a href="https://stackoverflow.com/users/7799462/halil-ozel"><img src="https://stackexchange.com/users/flair/10587710.png" width="208" height="58" alt="profile for Halil Ozel on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Halil Ozel on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
-
-
 ## 🙃 Would you like to support me? 🥳
-
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/halilozel1903)
-
