@@ -1,8 +1,3 @@
-# Hey Folks! 👋
-
-✨ My name is **Halil Ozel**, I'm an Android 📱 Developer 💻 from Türkiye 🇹🇷 <br>
-
-
 ## 📌 GitHub 😻 Stats 📈 & Top 🏆 Languages 🌍
 
 <div align="center">
@@ -12,7 +7,6 @@
 
 ## 📲 Android Apps 💻
 <code><a href="https://play.google.com/store/apps/developer?id=Halil+İbrahim+Özel" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_play/google_play-tile.svg"></a></code> Dive into my mobile portfolio! Explore the Android applications I've developed and published on the Google Play Store below. 🚀📱
-
 
 
 ## 📫 How 👀 to reach me? 💁🏻‍♂️
