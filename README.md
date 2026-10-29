@@ -1,6 +1,6 @@
 ## GitHub 😻 Stats 📈 & Top 🏆 Languages 🌍
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=halilozel1903&show_icons=true&theme=radical&count_private=true&hide=contribs,issues" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halilozel1903&layout=compact&theme=radical&langs_count=4" alt="Top Languages" />
+  <img width="440" src="https://halil-hodja.halilozel1903.chatgpt.site/api/card?username=halilozel1903&amp;type=stats&amp;theme=midnight" alt="GitHub statistics" />
+  <img width="440" src="https://halil-hodja.halilozel1903.chatgpt.site/api/card?username=halilozel1903&amp;type=languages&amp;theme=midnight&amp;coverage=legacy100&amp;percentage=shown&amp;langs_count=4" alt="Top languages by code bytes — Readme Stats compatibility" />
 </div>
